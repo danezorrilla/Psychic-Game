@@ -1,0 +1,18 @@
+body{
+    background-image: url("../images/psychic.jpg");
+    color: lightgray;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+h1{
+    font-family: 'Pacifico', cursive;
+    margin-bottom: 30px;
+    font-size: 50px;
+}
+
+div{
+    margin-bottom: 20px;
+    font-size: 25px;
+}
