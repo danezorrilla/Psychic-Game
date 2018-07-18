@@ -1,11 +1,11 @@
 # Psychic-Game
 <br>
 Can you guess the letter?
-<br>
+<br><br>
 Description:<br>
 In this game, you must figure out what letter the computer has randomly selected.
 You have 13 tries to find out. If you answer correctly, you will win the game, however if you fail to answer correctly, you lose the game. The game will then reset and a new letter will be picked.
-<br>
+<br><br>
 Instructions:<br>
 1) Go to https://danezorrilla.github.io/Psychic-Game/<br>
 2) Enter a keyboard input.<br>
